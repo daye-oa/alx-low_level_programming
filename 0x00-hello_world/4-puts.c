@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * a function to print to the output a string
+ *main - Entry point
+ *Return: Always 0 (Success)
  */
 
 int main(void)
